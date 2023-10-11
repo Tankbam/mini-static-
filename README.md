@@ -1,1 +1,1 @@
-# mini-static-
+# Test-3-static-project
